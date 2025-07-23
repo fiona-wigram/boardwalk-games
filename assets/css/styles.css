@@ -1,5 +1,9 @@
+/* Import of google fonts - Macondo and Inter*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
+
 h1 {
     color: red;
+    font-family: 'Macondo';
 }
 
 body {
