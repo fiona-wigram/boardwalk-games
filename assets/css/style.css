@@ -22,21 +22,34 @@ h2,
 h3 {
     font-family: var(--secondary-font);
     color: var(--primary-color);
+    text-transform: uppercase;
 }
 
 .sub-heading-color {
     color: var(--highlight-color);
 }
 
-/* Navbar styles */
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Navbar */
 
 #navbar {
     background-color: var(--primary-color);
 }
 
 #navbar .logo {
-    width: 40px;
+    width: 30px;
 }
+
+/* Header */
+
+#header .lead {
+    font-family: var(--secondary-font);
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container,
