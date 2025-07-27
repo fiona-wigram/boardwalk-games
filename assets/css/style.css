@@ -42,6 +42,12 @@ h2 {
     margin-bottom: 2rem;
 }
 
+.student-discount {
+    background-color: var(--highlight-color);
+    color:white;
+    text-align: center;
+}
+
 /* Buttons */
 
 .custom-button-filled {
